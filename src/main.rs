@@ -1,6 +1,8 @@
 extern crate ar;
+extern crate byteorder;
 #[macro_use]
 extern crate clap;
+extern crate cpio;
 #[macro_use]
 extern crate error_chain;
 extern crate icns;
